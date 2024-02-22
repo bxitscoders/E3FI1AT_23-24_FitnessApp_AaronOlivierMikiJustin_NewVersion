@@ -8,11 +8,14 @@ namespace FitnessApp.ViewModels
 {
     internal class MainViewModel
     {
+        public ICommand ChartLoadedCommand { get; private set; }
+
         public ICommand SwitchToTrainingMenuCommand { get; private set; }
 
         public MainViewModel()
         {
             SwitchToTrainingMenuCommand = new RelayCommand(SwitchToTrainingMenuView);
+            ChartLoadedCommand = new RelayCommand(ChartLoadedExecute);
         }
 
         private void SwitchToTrainingMenuView(object obj)
@@ -24,19 +27,10 @@ namespace FitnessApp.ViewModels
             Application.Current.MainWindow.Content = trainingMenuView;
         }
 
-        
-
-
-
-
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void ChartLoadedExecute(object parameter)
         {
-
+            // Logic for the Chart in HomeView
         }
 
-        private void Button_Click_1(object sender, RoutedEventArgs e)
-        {
-
-        }
     }
 }
