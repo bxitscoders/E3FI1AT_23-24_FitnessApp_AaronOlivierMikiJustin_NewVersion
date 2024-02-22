@@ -1,0 +1,42 @@
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\bin\Debug\FitnessApp.exe.config
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\bin\Debug\FitnessApp.exe
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\bin\Debug\FitnessApp.pdb
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\bin\Debug\LiveCharts.dll
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\bin\Debug\LiveCharts.pdb
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\bin\Debug\LiveCharts.xml
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\obj\Debug\FitnessApp.csproj.AssemblyReference.cache
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\obj\Debug\MainWindow.g.cs
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\obj\Debug\App.g.cs
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\obj\Debug\FitnessApp_MarkupCompile.cache
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\obj\Debug\FitnessApp_MarkupCompile.lref
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\obj\Debug\MainWindow.baml
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\obj\Debug\FitnessApp.g.resources
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\obj\Debug\FitnessApp.Properties.Resources.resources
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\obj\Debug\FitnessApp.csproj.GenerateResource.cache
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\obj\Debug\FitnessApp.csproj.CoreCompileInputs.cache
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\obj\Debug\FitnessApp.csproj.CopyComplete
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\obj\Debug\FitnessApp.exe
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\obj\Debug\FitnessApp.pdb
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\obj\Debug\App.baml
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\obj\Debug\User Control\TextInfo.baml
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\obj\Debug\User Control\TextInfo.g.cs
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\obj\Debug\User Control\InfoCard.baml
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\obj\Debug\User Control\InfoCard.g.cs
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\obj\Debug\User Control\UserCard.baml
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\obj\Debug\User Control\UserCard.g.cs
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\obj\Debug\Views\TrainingView.g.cs
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\obj\Debug\Views\TrainingView.baml
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\obj\Debug\Views\TrainingMenuView.g.cs
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\obj\Debug\Views\TrainingMenuView.baml
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\obj\Debug\Views\HomeView.g.cs
+C:\Users\olivi\source\repos\FitnessApp\FitnessApp\obj\Debug\Views\HomeView.baml
